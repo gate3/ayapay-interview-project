@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "324995549536",
+    "firebase_url": "https://cryptoafrica-e1f8d.firebaseio.com",
+    "project_id": "cryptoafrica-e1f8d",
+    "storage_bucket": "cryptoafrica-e1f8d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:324995549536:android:8651bc83a8c2b4d3597605",
+        "android_client_info": {
+          "package_name": "com.ayapay"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "324995549536-dd4s6273drk6olhec96judp770650aeu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDB71-f_CTvtp4el08-hPoVqy-BXFsCks"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "324995549536-dd4s6273drk6olhec96judp770650aeu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "324995549536-0b1arv2hk4htjafdh9u9qb0isrs60vg2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.ayapay"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
