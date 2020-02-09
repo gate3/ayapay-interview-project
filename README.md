@@ -1,5 +1,7 @@
 # Football App
 
+<img src="https://github.com/gate3/ayapay-interview-project/blob/master/android.gif?raw=true" />
+
 ## Description
 The app is a simple app that integrates firebase, intteracts with a football api at <a href="https://api.football-data.org">https://api.football-data.org</a>. The app fetches football leagues from all countries, clubs in those leagues and finally squads for all teams.
 
