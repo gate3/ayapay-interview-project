@@ -2,6 +2,8 @@
 
 <img src="https://github.com/gate3/ayapay-interview-project/blob/master/android.gif?raw=true" width="250" height="400" />
 
+<video src="https://github.com/gate3/ayapay-interview-project/blob/master/ios.mp4" width="250" height="400" />
+
 ## Login details
 
 - email: admin@admin.com
