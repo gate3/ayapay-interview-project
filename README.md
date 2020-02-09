@@ -1,4 +1,4 @@
-# Football App 
+# Football App
 
 ## Description
 The app is a simple app that integrates firebase, intteracts with a football api at <a href="https://api.football-data.org">https://api.football-data.org</a>. The app fetches football leagues from all countries, clubs in those leagues and finally squads for all teams.
